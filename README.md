@@ -1,15 +1,9 @@
-<h1 align="center">Hi, I'm Nguyen Chi Duc</h1>
+<h1 align="center">🌏 Hello World, I'm Nguyễn Chí Đức a.k.a Jayden 🌏</h1>
 
-<p align="center">
-  <strong>E-commerce Undergraduate | Applied AI | AI Engineering | Data Analytics</strong>
-</p>
 
-<p align="center">
-  I build AI-enabled business systems that connect machine learning, data, APIs, and operational workflows.
-</p>
 
 ## About Me
-
+I build AI-enabled business systems that connect machine learning, data, APIs, and operational workflows.
 - E-commerce undergraduate at the University of Economics and Law, VNU-HCM, with a cumulative GPA of 3.52/4.00.
 - Research Associate at the Business Analysis and Artificial Intelligence Lab.
 - Interested in turning AI and analytics into practical tools for decision support, commerce, and operations.
